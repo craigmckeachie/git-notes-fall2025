@@ -21,9 +21,9 @@
       - `fix/issue-345-validation-incorrect`
       - `feature/api-customers`
 2. switch to the branch 
-      - `checkout [branch name]` 
+      - `git checkout [branch name]` 
       - or 
-      - `switch [branch name]`
+      - `git switch [branch name]`
    > Steps one and two can be done with one command
       - `git checkout -b [branch name]`
       - `git switch -c [branch name]` 
