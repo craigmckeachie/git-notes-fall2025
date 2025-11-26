@@ -20,7 +20,7 @@
    ```shell
    git add .
    git commit -m "commit message"
-   git push
+   git push origin main
    ```
 1. repeat these steps as many times as needed
 
@@ -32,4 +32,4 @@
 ## Tips
 
 - this is your first tip
-- 
+-
